@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
 Sitemap: https://monochromestudio.ru/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /contacts.html
+Sitemap: https://monochromestudio.ru/sitemap.xml
