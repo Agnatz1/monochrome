@@ -176,3 +176,12 @@ footer {
 body {
     text-align: center;
 }
+/* Подключение шрифта */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@700&display=swap');
+
+/* Стиль только для h1 */
+.hero h1 {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
